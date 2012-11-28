@@ -1,4 +1,6 @@
+SEW_12-13
+=========
 Learning to use git are:
-Stefan Stokic 3CHIT from TGM.
+Arif Balkan 3CHIT/TGM
 
 Dominik Kodras was here :D
